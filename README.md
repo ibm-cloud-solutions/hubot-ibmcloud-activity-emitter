@@ -6,10 +6,10 @@
 # hubot-ibmcloud-activity-emitter
 Library for making your hubot scripts emit activities to be caught somewhere else.
 
-## License <a id="license"></a>
+## License
 
-See [LICENSE.txt](./LICENSE.txt) for license information.
+See [LICENSE.txt](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter/blob/master/LICENSE.txt) for license information.
 
-## Contribute <a id="contribute"></a>
+## Contribute
 
-Please check out our [Contribution Guidelines](./CONTRIBUTING.md) for detailed information on how you can lend a hand.
+Please check out our [Contribution Guidelines](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter/blob/master/CONTRIBUTING.md) for detailed information on how you can lend a hand.
