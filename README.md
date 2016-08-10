@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter.svg?branch=master)](https://travis-ci.org/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter)
-[![Coverage Status](https://coveralls.io/repos/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter/badge.svg?branch=cleanup)](https://coveralls.io/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter?branch=cleanup)
+[![Coverage Status](https://coveralls.io/repos/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter/badge.svg?branch=master)](https://coveralls.io/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter?branch=master)
 [![Dependency Status](https://dependencyci.com/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter/badge)](https://dependencyci.com/github/ibm-cloud-solutions/hubot-ibmcloud-activity-emitter)
 [![npm](https://img.shields.io/npm/v/hubot-ibmcloud-activity-emitter.svg?maxAge=2592000)](https://www.npmjs.com/package/hubot-ibmcloud-activity-emitter)
 
